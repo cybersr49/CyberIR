@@ -36,7 +36,7 @@ This project documents a simulated SOC and DFIR investigation involving:
 
 ### Full Incident Report
 
-[View the complete incident report](./Incident Report CTF1.pdf)
+[View the complete incident report](./Incident%20Report%20CTF1.pdf)
 
 ---
 
